@@ -6,4 +6,4 @@ Controls:
   Release "SPACE" to go down.
   Press "R" to restart game.
   
-![Image of Game](https://zacikmareek.github.com/Image.png)
+![Image of Game](Image.png)
