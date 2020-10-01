@@ -9,7 +9,7 @@ This is a FREE flying wings game where you have to keep the tiny bird flying wit
 
 The game control is simple and very responsive to make it more enjoyable to play this game. There are many other flapper games where you have to tap to keep the tiny birdie flapping its flying wings. So, why not try this one too! It’s unlimited play game. You can play as long as you want.
 
-## === FEATURES OF FLYING BIRD - FLAPPER BIRDIE GAME: ===
+## === FEATURES OF SIMPLE FLAPPY BIRD BIRD ===
     - Tap the screen to keep the tweety bird flapping its tiny wings.
     - Letting go means the little birdie will going down.
     - Avoid touching the pipe.
